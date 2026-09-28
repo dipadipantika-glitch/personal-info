@@ -290,11 +290,6 @@ body.dark-mode .project-card {
 }
 
 
-/* =========================
-   Responsive Design
-========================= */
-
-/* Tablet */
 
 @media (max-width: 800px) {
 
@@ -310,9 +305,6 @@ body.dark-mode .project-card {
         grid-template-columns: repeat(2, 1fr);
     }
 }
-
-
-/* Mobile */
 
 @media (max-width: 600px) {
 
