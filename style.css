@@ -103,9 +103,6 @@ header {
     margin-bottom: 20px;
 }
 
-
-/* Button */
-
 .btn {
     display: inline-block;
     background: #2563eb;
@@ -122,10 +119,6 @@ header {
 }
 
 
-/* =========================
-   Common Section
-========================= */
-
 section {
     max-width: 1100px;
     margin: auto;
@@ -139,21 +132,12 @@ section h2 {
 }
 
 
-/* =========================
-   About Section
-========================= */
-
 #about p {
     max-width: 750px;
     margin: auto;
     text-align: center;
     color: #555;
 }
-
-
-/* =========================
-   Skills Section
-========================= */
 
 .skills-container {
     display: flex;
