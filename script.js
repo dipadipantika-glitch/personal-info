@@ -1,7 +1,3 @@
-// =========================
-// Dark / Light Mode
-// =========================
-
 const themeButton = document.getElementById("themeButton");
 
 themeButton.addEventListener("click", function () {
@@ -15,11 +11,6 @@ themeButton.addEventListener("click", function () {
     }
 
 });
-
-
-// =========================
-// Contact Form
-// =========================
 
 const contactForm = document.getElementById("contactForm");
 const formMessage = document.getElementById("formMessage");
