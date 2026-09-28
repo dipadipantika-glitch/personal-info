@@ -54,8 +54,6 @@ header {
 }
 
 
-/* Theme Button */
-
 #themeButton {
     border: none;
     background: #374151;
@@ -157,10 +155,6 @@ section h2 {
 }
 
 
-/* =========================
-   Education
-========================= */
-
 .education-card {
     max-width: 700px;
     margin: auto;
@@ -180,9 +174,6 @@ section h2 {
 }
 
 
-/* =========================
-   Projects
-========================= */
 
 .projects-container {
     display: grid;
@@ -211,11 +202,6 @@ section h2 {
 .project-card h3 {
     margin-bottom: 10px;
 }
-
-
-/* =========================
-   Contact Form
-========================= */
 
 #contactForm {
     max-width: 600px;
@@ -270,9 +256,6 @@ section h2 {
 }
 
 
-/* =========================
-   Footer
-========================= */
 
 footer {
     background: #111827;
@@ -284,9 +267,7 @@ footer {
 }
 
 
-/* =========================
-   Dark Mode
-========================= */
+
 
 body.dark-mode {
     background: #111827;
