@@ -7,7 +7,7 @@ themeButton.addEventListener("click", function () {
     if (document.body.classList.contains("dark-mode")) {
         themeButton.textContent = "Light";
     } else {
-        themeButton.textContent = "🌙";
+        themeButton.textContent = "Dark";
     }
 
 });
